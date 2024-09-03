@@ -46,7 +46,6 @@ O código do projeto está no meu repositório GitHub: [link para o repositório
 **Referências:**
 
 * [Documentação do CrewAI](https://www.crew.ai/)
-* [Artigo sobre o CrewAI](https://www.example.com)
 
 **Contribuições:**
 
